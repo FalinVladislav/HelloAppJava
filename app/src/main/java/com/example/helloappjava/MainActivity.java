@@ -28,6 +28,7 @@ public static final String TAG = "HELLOAPPJAVA_TAG";
     protected void onStart() {
         super.onStart();
         Log.d(TAG, "onStart: started");
+        Log.d(TAG, "onStart: github");
     }
 
     @Override
